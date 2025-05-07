@@ -126,4 +126,4 @@ If you prefer to use your own API key (for OpenAI, Anthropic, or local models), 
 
 **No commission:** For now, Refact.ai does not take any commission or markup on API usage. You pay only for the actual API cost of the model you use.
 
-For more information on how to use Bring Your Own Key (BYOK), see the [BYOK documentation](https://github.com/smallcloudai/refact/blob/main/docs/byok.md) in the repository.
+For more information on how to use Bring Your Own Key (BYOK), see the [BYOK documentation](https://docs.refact.ai/byok/) in the repository.
